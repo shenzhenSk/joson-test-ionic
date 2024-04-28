@@ -1,0 +1,8 @@
+{
+  "name": "joson-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "aaf904b7"
+}
